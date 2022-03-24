@@ -1,5 +1,5 @@
 .header-bg {
-  background-image: url("/img/Website_Gaming_Picture_Basti.jpg");
+  background-image: url("/Website_Gaming_Picture_Basti.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -78,7 +78,7 @@ html {
 }
 
 .background {
-  background-image: url("/img/Background.svg");
+  background-image: url("/Background.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
